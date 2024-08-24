@@ -1,3 +1,3 @@
 # CALCULADORA REACT
 
-![Imagem calculadora](./images/calculadoraReact.png)
+![Imagem calculadora](./img/calculadoraReact.png)
